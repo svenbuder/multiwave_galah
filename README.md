@@ -2,6 +2,8 @@
 
 A repository for the hands-on session *Optical stellar spectroscopic insights into multi-wavelength astronomy* of Day 1 (6 May 2025) of the [2025 Australia/eROSITA-DE multi-wavelength school](https://astronomyaustralia.org.au/event/2025-australia-erosita-de-multi-wavelength-school/).
 
+You can find the slides in this repository [here](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_slides.pdf).
+
 ## 0 Required python packages
 
 - numpy
@@ -34,15 +36,15 @@ A more detailed description of how to download these catalogues can be found at 
 
 Go to notebook [multiwave_galah_xray_crossmatches.ipynb](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_xray_crossmatches.ipynb)
 
-![Stars in 47Tuc with observations from eROSITA and GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/47Tuc_stars_xray_or_galah.pdf)
+![Stars in 47Tuc with observations from eROSITA and GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/47Tuc_stars_xray_or_galah.png)
 
 ## 3 GALAH x Radio Stars
 
 Go to notebook [multiwave_galah_radio_stars.ipynb](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_radio_stars.ipynb)
 
-![Radio Stars in GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/radio_ga_ga_hrd_kiel.pdf)
+![Radio Stars in GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/radio_ga_ga_hrd_kiel.png)
 
-![Example spectra of a Radio Star](https://github.com/svenbuder/multiwave_galah/blob/main/figures/spectral_zoom_170205003401240.pdf)
+![Example spectra of a Radio Star](https://github.com/svenbuder/multiwave_galah/blob/main/figures/spectral_zoom_170205003401240.png)
 
 ## 4 GALAH x InterStellar Medium
 
