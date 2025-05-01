@@ -1,6 +1,6 @@
-# multiwave_galah
+# GALAH meets X-Ray and Radio
 
-A repository for the hands-on session *Correlating optical stellar spectra with radio and interstellar medium* of Day 1 (6 May 2025) of the [2025 Australia/eROSITA-DE multi-wavelength school](https://astronomyaustralia.org.au/event/2025-australia-erosita-de-multi-wavelength-school/).
+A repository for the hands-on session *Optical stellar spectroscopic insights into multi-wavelength astronomy* of Day 1 (6 May 2025) of the [2025 Australia/eROSITA-DE multi-wavelength school](https://astronomyaustralia.org.au/event/2025-australia-erosita-de-multi-wavelength-school/).
 
 ## 0 Required python packages
 
@@ -24,28 +24,28 @@ The **GAL**alactic **A**rchaeology with **H**ERMES (GALAH) Survey is a large hig
 
 ![Skymap of GALAH DR4 with Gaia DR3 in the background (linked from the DR4 paper GitHub repository.)](https://github.com/svenbuder/galah_dr4_paper/blob/main/figures/galah_dr4_skymap_gaiadr3.png)
 
-### 1.1 Access to GALAH catalogues
+### Access to GALAH catalogues
 
 GALAH catalogues are provided as FITS files at https://cloud.datacentral.org.au/teamdata/GALAH/public/GALAH_DR4/catalogs/.
 
 A more detailed description of how to download these catalogues can be found at https://www.galah-survey.org/dr4/overview/
 
+## 2 GALAH x X-Ray
 
+Go to notebook [multiwave_galah_xray_crossmatches.ipynb](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_xray_crossmatches.ipynb)
 
-### 1.2 Access to GALAH spectra
+![Stars in 47Tuc with observations from eROSITA and GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/47Tuc_stars_xray_or_galah.pdf)
 
-## 2 GALAH x Radio Stars
+## 3 GALAH x Radio Stars
 
-### 2.1 Radio Star Catalogue
+Go to notebook [multiwave_galah_radio_stars.ipynb](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_radio_stars.ipynb)
 
-### 2.2 Crossmatching
+![Radio Stars in GALAH DR4](https://github.com/svenbuder/multiwave_galah/blob/main/figures/radio_ga_ga_hrd_kiel.pdf)
 
-### 2.3 Investigating spectra
+![Example spectra of a Radio Star](https://github.com/svenbuder/multiwave_galah/blob/main/figures/spectral_zoom_170205003401240.pdf)
 
-## 3 GALAH x ISM
+## 4 GALAH x InterStellar Medium
 
-### 3.1 Preparation
+Go to notebook [multiwave_galah_interstellar_medium.ipynb](https://github.com/svenbuder/multiwave_galah/blob/main/multiwave_galah_interstellar_medium.ipynb)
 
-### 3.2 Interstellar KI (Potassium)
-
-### 3.3 Diffuse Interstellar Bands (DIBs)
+![Interstellar K local-standard-of-rest velocity across Galactic Longitude](https://github.com/svenbuder/multiwave_galah/blob/main/figures/galah_dr4_ism_k_longitude_vs_vlsr_cut_50.png)
